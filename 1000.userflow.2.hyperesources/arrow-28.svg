@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="96.5px"
+	 height="5.185px" viewBox="0 0 96.5 5.185" enable-background="new 0 0 96.5 5.185" xml:space="preserve">
+<symbol  id="arrow_x5F_full_x5F_screen" viewBox="0 -12 12 12">
+	<polygon fill="none" points="0,-12 12,-12 12,0 0,0 	"/>
+	<polyline fill="none" stroke="#58C3F1" stroke-miterlimit="10" points="7,-0.5 11.5,-0.5 11.5,-5 	"/>
+	<polyline fill="none" stroke="#58C3F1" stroke-miterlimit="10" points="0.5,-7 0.5,-11.5 5,-11.5 	"/>
+	<polygon fill="#21AFEC" points="10,-2 9,-2 9,-3 10,-3 	"/>
+	<polygon fill="#21AFEC" points="11,-1 10,-1 10,-2 11,-2 	"/>
+	<polygon fill="#21AFEC" points="2,-10 1,-10 1,-11 2,-11 	"/>
+	<polygon fill="#21AFEC" points="9,-3 8,-3 8,-4 9,-4 	"/>
+	<polygon fill="#21AFEC" points="8,-4 7,-4 7,-5 8,-5 	"/>
+	<polygon fill="#21AFEC" points="7,-5 6,-5 6,-6 7,-6 	"/>
+	<polygon fill="#21AFEC" points="6,-6 5,-6 5,-7 6,-7 	"/>
+	<polygon fill="#21AFEC" points="5,-7 4,-7 4,-8 5,-8 	"/>
+	<polygon fill="#21AFEC" points="4,-8 3,-8 3,-9 4,-9 	"/>
+	<polygon fill="#21AFEC" points="3,-9 2,-9 2,-10 3,-10 	"/>
+	<polygon display="none" fill="none" points="0,0 12,0 12,-12 0,-12 	"/>
+</symbol>
+<g id="back">
+	<g id="header_x5F_company_x5F_name_2_">
+	</g>
+	<g id="header_x5F_company_x5F_name_3_">
+	</g>
+	<g id="header_x5F_company_x5F_name_1_">
+	</g>
+	<g id="header_x5F_company_x5F_name">
+	</g>
+</g>
+<g id="system">
+</g>
+<g id="company_page">
+	<g>
+		<g>
+			<line fill="none" stroke="#C1C3C9" stroke-miterlimit="10" x1="0" y1="2.592" x2="92" y2="2.592"/>
+			<g>
+				<polygon fill="#C1C3C9" points="90.355,5.185 91.457,2.592 90.355,0 96.5,2.592 				"/>
+			</g>
+		</g>
+	</g>
+	<g id="domprom-funnels">
+	</g>
+	<g id="domprom-funnels_1_">
+	</g>
+</g>
+<g id="popup">
+</g>
+<g id="popup_x5F_2">
+</g>
+<g id="backup" display="none">
+</g>
+</svg>
